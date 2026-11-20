@@ -17,12 +17,6 @@ its own local SQLite store and syncs to MySQL when you point it at a server.
 
 The booking website is not part of the trial; it ships with the Deluxe plan.
 
-## JChat
-
-`jchat.zip` is the full PHP/MySQL source of the messenger, including the
-Electron desktop launcher. The source also lives in
-[JChat](https://github.com/shelbycountyfc-rgb/jchat).
-
 ## Verifying a download
 
 `SHA256SUMS.txt` in the release lists the checksum of every file.
