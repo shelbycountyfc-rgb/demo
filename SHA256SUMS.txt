@@ -1,0 +1,4 @@
+4a562bbff7410c448cf63bde415b8bab7d2e1f36138a25e43e908a13193b9ffb *marina-reservation-system-5.4.2-windows-setup.exe
+cb4b7de75ceb3f19193dfe30dbfc63e646a380aee7a42ffdd3b6d5eed816a7ef *marina-reservation-system-5.4.2-linux-amd64.deb
+18dfb2b74bf825d408beef71e19780c525e648e06b3abdf0eab4fce4f9bf6f70 *marina-reservation-system-5.4.2-linux-x86_64.tar.gz
+b59a902c773bef07a8b2e7bf41b6433201e062773b70653d5cee182ad3092c59 *jchat.zip
