@@ -1,3 +1,3 @@
-4a562bbff7410c448cf63bde415b8bab7d2e1f36138a25e43e908a13193b9ffb *marina-reservation-system-5.4.2-windows-setup.exe
-cb4b7de75ceb3f19193dfe30dbfc63e646a380aee7a42ffdd3b6d5eed816a7ef *marina-reservation-system-5.4.2-linux-amd64.deb
-18dfb2b74bf825d408beef71e19780c525e648e06b3abdf0eab4fce4f9bf6f70 *marina-reservation-system-5.4.2-linux-x86_64.tar.gz
+bcbb1f0b13e069142a52dbd9e1a12726a3e9827d9e2b0a1987102092d69ebc75 *marina-reservation-system-5.4.3-windows-setup.exe
+6cbce560321f5530dd2b3ca5085c39202f03cff7559d26c8259e7cf04187b4e2 *marina-reservation-system-5.4.3-linux-amd64.deb
+3eaa18e75dcf9f92745245c87adbdb0c2e0b06005e01835019eb7d843326188c *marina-reservation-system-5.4.3-linux-x86_64.tar.gz
