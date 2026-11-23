@@ -11,9 +11,9 @@ its own local SQLite store and syncs to MySQL when you point it at a server.
 
 | Build | File |
 | --- | --- |
-| Windows 10+ (x64) installer | `marina-reservation-system-5.4.2-windows-setup.exe` |
-| Linux (amd64) Debian package | `marina-reservation-system-5.4.2-linux-amd64.deb` |
-| Linux (x86_64) tarball | `marina-reservation-system-5.4.2-linux-x86_64.tar.gz` |
+| Windows 10+ (x64) installer | `marina-reservation-system-5.4.3-windows-setup.exe` |
+| Linux (amd64) Debian package | `marina-reservation-system-5.4.3-linux-amd64.deb` |
+| Linux (x86_64) tarball | `marina-reservation-system-5.4.3-linux-x86_64.tar.gz` |
 
 The booking website is not part of the trial; it ships with the Deluxe plan.
 
